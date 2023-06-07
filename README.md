@@ -69,3 +69,7 @@ You can actually visit this project on Netlify ([there](https://react-simple-exa
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Acknowledgement
+
+Thanks to [John Smilga](https://johnsmilga.com/) for its outstanding course on [Udemy](https://www.udemy.com/course/react-tutorial-and-projects-course/) which brings me all long this beautiful journey.
